@@ -1,10 +1,14 @@
-# jxzzp.github.io
-https://github.com/
-# 注册github账号
+## jxzzp.github.io
+***https://github.com/***  
+***注册github账号***  
 
-# + New repository
-# 打开: index.md
-# Edit:
-I have a *blog*!
+***+ New repository***  
+***Repository name: jxzzp.github.io***  
 
-# 提交: Commit changes
+***Open: index.md***  
+***Edit:***  
+
+### Hello World!  
+### I have a *blog*!  
+
+***Commit: Commit changes***  
